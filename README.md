@@ -1,2 +1,28 @@
-# bfebde77-payroll-benefits-email-templ
-Built for payroll professionals who are tired of switching between tabs and losing context.  Privacy-first: all processing stays local, no data sent to third-party servers. Under 1MB. Zero performance impact on browser speed.  ## What's Included  - Payroll &amp; Benefits Email Template And Sequence Builder — fully configured and ready to use - One-clic
+# Payroll & Benefits Email Template and Sequence Builder Chrome Extension
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic functionality | Yes | Yes |
+| Community support | Yes | Yes |
+| Standard features | Yes | Yes |
+| Advanced automation | - | Yes |
+| Priority support | - | Yes |
+| Custom configurations | - | Yes |
+| Auto-updates | - | Yes |
+| Premium integrations | - | Yes |
+| Unlimited usage | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/5kQ14n8v54sc6xy8nGcZy1W)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/5kQ14n8v54sc6xy8nGcZy1W)
+
